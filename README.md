@@ -7,11 +7,11 @@ The script might not work for all slides / courses but it seems to work for a lo
 ## Setup
 
 ```shell
-pip install -r ./requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```shell
-python ./deduplicate_pdf.py [--output_file=out.pdf] input_file
+python deduplicate_pdf.py [--output_file=out.pdf] input_file
 ```
